@@ -1,0 +1,57 @@
+body
+{
+	background-color: black;
+	text-align: center;
+}
+
+h1
+{
+	color: aqua;
+	font-size: 2em;
+	font-family: verdana;
+}
+
+div
+{
+	border: 2px solid aqua;
+	border-radius: 26px;
+	width: 70vh;
+	height: 30vh;
+	margin-left: 32%;
+	margin-right: 32%;
+	margin-bottom: 15%;
+}
+
+input
+{
+	margin-top: 5%;
+	border: 2px solid aqua;
+	background-color: black;
+	width: 60%;
+	height: 17%;
+	border-radius: 30px;
+	color: aqua;
+	text-align: center;
+
+}
+
+button
+{
+	background-color: aqua;
+	text-align: center;
+	width: 300px;
+	padding: 10px 22px;
+	border-radius: 26px;
+	margin-top: 3px;
+	border: 2px solid aqua;
+	transition: 0.5s;
+
+}
+
+button:hover
+{
+	color: aqua;
+	background-color: black;
+	border: 2px solid aqua;
+
+}

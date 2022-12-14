@@ -1,0 +1,40 @@
+body
+{
+	background-color: black;
+	text-align: center
+}
+
+h1
+{
+	color: yellow;
+	font-size: 2em;
+	font-family: verdana;
+}
+
+table
+{
+	color: yellow;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+button
+{
+
+	text-align: center;
+	width: 100px;
+	padding: 10px 22px;
+	border-radius: 26px;
+	margin-top: 5px;
+	border: 2px solid yellow;
+	transition: 0.5s;
+
+}
+
+button:hover
+{
+	color: aqua;
+	background-color: grey;
+	border: 2px solid aqua;
+
+}

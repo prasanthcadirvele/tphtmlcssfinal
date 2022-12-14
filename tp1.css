@@ -1,0 +1,56 @@
+body
+{
+    background-color: rgb(152, 146, 138);
+}
+
+h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button
+{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    background-color: rgb(109, 109, 232);
+    border: 4px solid royalblue;
+    border-radius: 50px;
+    color: beige;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover
+{
+    background-color: blueviolet;
+    color: black;
+}
+
+.button1
+{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    text-align: center;
+    background-color: rgb(109, 109, 232);
+    border: 4px solid royalblue;
+    border-radius: 50px;
+    color: beige;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button2
+{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    text-align: center;
+    background-color: rgb(109, 109, 232);
+    border: 4px solid royalblue;
+    border-radius: 50px;
+    color: beige;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

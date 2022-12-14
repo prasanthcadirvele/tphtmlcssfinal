@@ -1,0 +1,21 @@
+div {
+	height: 100px;
+	width: 120px;
+	float: left;
+	margin: 20px
+}
+
+.bloc1 {
+	background-color: #add8e6;
+
+}
+.bloc2 {
+	background-color: 	#8fbc8f ;
+	margin-left: 20px;
+
+}
+.bloc3 {
+	background-color: #ffebcd;
+	margin-left: 20px;
+	clear: both;
+}

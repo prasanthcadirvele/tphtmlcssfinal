@@ -1,0 +1,82 @@
+body
+{
+	background: white;
+}
+.boite_principale
+{
+	border: 2px solid red;
+	width: 70%;
+	height: 1000px;
+	margin-left: 17%;
+	box-shadow: 6px 4px 2px;
+	
+}
+
+.information_perso
+{
+	border: 2px solid blue;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+
+}
+
+.image
+{
+
+	margin-left: 65%;
+	width: 130px;
+    height: 140px;
+    position: absolute;
+    top: 25px;
+    left: 5px;
+	
+}
+
+p
+{
+	margin-left: 10px;
+}
+
+
+h2
+{
+	margin-left: 10px;
+}
+
+h3
+{
+	margin-left: 10px;
+}
+
+.formation
+{
+	border: 2px solid blue;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	text-align: center;
+
+}
+
+.Exp_pro
+{
+	border: 2px solid blue;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	text-align: center;
+}
+
+.comp_info
+{
+	border: 2px solid blue;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	text-align: center;
+}
